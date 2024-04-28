@@ -5,12 +5,12 @@ const paper = document.querySelector(".paper");
 const textArea = document.querySelector(".pesan");
 const message = `~ untuk: Lili Ikan Sarden  🐟
 
-Selamat ulang tahun oiii🎉🎉🎉......
+Selamat ulang tahun oii...🎉🎉🎉
 Semoga sehat dan bahagia selalu,
-semoga nanti utbk lancar dan mendapatkan skor 700++. (klok udah selesai utbk, minimal kasih contekan lah kwkwk)
+semoga nanti utbk lancar dan mendapatkan skor 700++. (klok udah selesai utbk, minimal kasih contekan lah kwkwk 😂)
 Semoga keterima di Unesa, dan masa-masa kuliahnya penuh bahagia ammin...
 
-Dari : peternak kucing 🐈
+Dari : peternak kucing 🐈😸
 `;
 let i = 0;
 // ================
